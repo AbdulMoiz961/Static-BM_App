@@ -9,7 +9,7 @@ Explore the live demo [here](https://l-epicurean-restaurant.surge.sh/).
 ## Technologies Used
 - React.js
 - HTML5
-- CSS3
+- Tailwind CSS
 - Node.js
 
 ## Features
@@ -23,7 +23,7 @@ Feel free to explore the website and navigate through its pages to get a glimpse
 1. Clone this repository: `git clone https://github.com/AbdulMoiz961/Static-BM_App.git`
 2. Navigate to the project directory: `cd Static-BM_App`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm run dev`
 
 ---
 
