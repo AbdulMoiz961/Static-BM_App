@@ -4,7 +4,7 @@ Welcome to the Online Bank App Website Showcase, a static website project develo
 ## Live Demo
 ![Online Bank App Website](public/ScreenShot/BM-App.png)
 
-Explore the live demo [here](https://l-epicurean-restaurant.surge.sh/).
+Explore the live demo [here](https://bm0-app0.surge.sh/).
 
 ## Technologies Used
 - React.js
